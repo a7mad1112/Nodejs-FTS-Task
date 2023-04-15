@@ -8,10 +8,10 @@ Before running this code, you should have the following installed:
 - [Node.js](https://nodejs.org/)
 
 ## Usage
-1.Place the main.js file in the same folder as the users.csv file.
-2.Open a terminal and navigate to the folder where the main.js file is located.
+1. Place the main.js file in the same folder as the users.csv file.
+2. Open a terminal and navigate to the folder where the main.js file is located.
 3. Run node main.js to execute the code.
-4.The code will read the users.csv file, convert the data to JSON format, and save it to a new file called users.json.
+4. The code will read the users.csv file, convert the data to JSON format, and save it to a new file called users.json.
 
 ## Functions
 The following functions are included in the code:
