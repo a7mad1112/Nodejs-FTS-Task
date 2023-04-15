@@ -28,7 +28,7 @@ The following functions are included in the code:
 - Name: Faris Abuali
 
 ## Acknowledgements
-I am grateful to Foothill Technology Solutions for providing me with the opportunity to participate in this internship cycle, 
-and for their support throughout the development of this project.
+I would like to express my sincere gratitude to Foothill Technology Solutions for giving me the chance to be part of this internship cycle.
+I am thankful for their unwavering support and guidance during the development of this project.
 
 ![foothil](https://user-images.githubusercontent.com/93674478/232234459-2541033f-d82e-41fe-9bcb-d9b52f7411cd.jpg)
