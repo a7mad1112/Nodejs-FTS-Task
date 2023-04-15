@@ -18,7 +18,7 @@ The following functions are included in the code:
 
 - readCSV: Reads the data from the users.csv file and converts it to JSON format.
 - saveToFile: Saves the JSON data to a new file called users.json.
-- readJsonFile: Reads the content of the output.json file and prints it to the console.
+- readJsonFile: Reads the content of the users.json file and prints it to the console.
 
 ## Author
 - Name: Ahnmed Alawneh
